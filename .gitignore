@@ -1,0 +1,32 @@
+# Build and compiled files
+target/
+*.class
+*.jar
+*.war
+
+# IDE settings
+.idea/
+.settings/
+.classpath
+.project
+*.iml
+*.iws
+*.ipr
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+dependency-reduced-pom.xml
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
